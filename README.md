@@ -16,3 +16,12 @@ Technical Architecture:
 
 
 ![architecture - blueprint](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Architecture.pdf)
+## Links 
+
+*  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy_Map)
+*  [Problem sollution](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Problem-%20Solution%20Fit.pdf)
+*  [Brainstorming](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming_ideation.docx)
+*  [Guided project](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/tree/main/Guided%20Project)
+*  [Assignments](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/tree/main/Assignments)
+*  [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20review)
+*  [Proposed Solution](https://github.com/IBM-EPBL/IBM-Project-14988-1659593048/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution%20Template.pdf)
